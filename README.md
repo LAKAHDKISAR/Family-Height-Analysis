@@ -11,6 +11,7 @@ The primary dataset used in this analysis is from Galton's observations on child
 - [Features](#Features)
 - [Data](#Data)
 - [Requirements](#Requirements)
+- [Prodigy Infotech Internship](#Prodigy_Infotech_Internship-Task_2)
 - [License](#license)
 
 ## Introduction
@@ -46,7 +47,11 @@ To run the analysis scripts and visualize the data, ensure you have the followin
 You can install Python packages using pip:
 pip install streamlit==0.60 pandas numpy seaborn matplotlib
 
+## Prodigy_Infotech_Internship-Task_2
+This Exploratory Data Analysis (EDA) is conducted as Task 2 of the Prodigy Infotech internship. The objective was to perform data cleaning and exploratory analysis on a dataset of choice, focusing on understanding relationships between variables and identifying patterns and trends in family height data.
+
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE).
+
 
 
