@@ -1,6 +1,6 @@
-# PRODIGY_DS_02
+# Family Height Analysis
 
-## Family Height Analysis
+## PRODIGY_DS_02
 
 ## Overview
 This repository contains data and analysis related to family heights, exploring the relationship between parental heights and the heights of their children. It includes datasets, scripts for data analysis, and visualizations.
